@@ -36,7 +36,8 @@ In the ```loginServlet.java``` and ```VoteServlet.java``` files, update the data
 ### Step 4: Deploy the Application
 Deploy the application on a Java servlet container such as Apache Tomcat.
 
-
+### Step 5: Access the Application
+Open a web browser and go to ```http://localhost:8080/OnlineVotingSystem/login.jsp``` to access the login page.
 
 
 ## Technologies Used
